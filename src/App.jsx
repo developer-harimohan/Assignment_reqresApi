@@ -1,7 +1,6 @@
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
-import Common from './pages/Common.jsx'
 import GetExp from './pages/GetExp/GetExp'
 import Home from './pages/Home/Home'
 import PostExp from './pages/PostExp/PostExp'
